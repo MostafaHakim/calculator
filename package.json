@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:taildwindcss": "tailwindcss -i ./src/input.css -o ./dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaHakim/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostafaHakim/calculator/issues"
+  },
+  "homepage": "https://github.com/MostafaHakim/calculator#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
